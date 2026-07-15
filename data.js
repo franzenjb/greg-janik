@@ -2,8 +2,7 @@ window.GREG = {
  "order": [
   "ref",
   "aug2025",
-  "jun30a",
-  "jun30b"
+  "jun30"
  ],
  "sessions": {
   "ref": {
@@ -73,8 +72,8 @@ window.GREG = {
     }
    ]
   },
-  "jun30a": {
-   "label": "June 30, 2026 \u2014 Pt. 1",
+  "jun30": {
+   "label": "June 30, 2026",
    "sub": "On-air session",
    "clips": [
     {
@@ -82,22 +81,6 @@ window.GREG = {
      "dur": 203.1,
      "audio": "./audio/jun30a_021m23.mp3"
     },
-    {
-     "offset": 1809,
-     "dur": 10.2,
-     "audio": "./audio/jun30a_030m09.mp3"
-    },
-    {
-     "offset": 2516,
-     "dur": 9.1,
-     "audio": "./audio/jun30a_041m56.mp3"
-    }
-   ]
-  },
-  "jun30b": {
-   "label": "June 30, 2026 \u2014 Pt. 2",
-   "sub": "On-air session",
-   "clips": [
     {
      "offset": 0,
      "dur": 78.2,
