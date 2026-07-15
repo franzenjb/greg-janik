@@ -6,6 +6,7 @@ window.GREG = {
   "sep02",
   "sep22_21",
   "fall21",
+  "fall21b",
   "aug25_21"
  ],
  "sessions": {
@@ -195,7 +196,7 @@ window.GREG = {
    ]
   },
   "fall21": {
-   "label": "Fall 2021",
+   "label": "Fall 2021 \u2014 Tape 1",
    "sub": "On-air session, date uncertain",
    "clips": [
     {
@@ -242,6 +243,102 @@ window.GREG = {
      "offset": 4823,
      "dur": 115.6,
      "audio": "./audio/fall21_080m23.mp3?v=3"
+    }
+   ]
+  },
+  "fall21b": {
+   "label": "Fall 2021 \u2014 Tape 2",
+   "sub": "On-air session, date uncertain",
+   "clips": [
+    {
+     "offset": 2073,
+     "dur": 144.0,
+     "audio": "./audio/fall21b_034m33.mp3?v=3"
+    },
+    {
+     "offset": 2773,
+     "dur": 121.4,
+     "audio": "./audio/fall21b_046m13.mp3?v=3"
+    },
+    {
+     "offset": 3336,
+     "dur": 113.2,
+     "audio": "./audio/fall21b_055m36.mp3?v=3"
+    },
+    {
+     "offset": 4173,
+     "dur": 135.1,
+     "audio": "./audio/fall21b_069m33.mp3?v=3"
+    },
+    {
+     "offset": 5228,
+     "dur": 68.5,
+     "audio": "./audio/fall21b_087m08.mp3?v=3"
+    },
+    {
+     "offset": 5808,
+     "dur": 58.5,
+     "audio": "./audio/fall21b_096m48.mp3?v=3"
+    },
+    {
+     "offset": 6295,
+     "dur": 102.4,
+     "audio": "./audio/fall21b_104m55.mp3?v=3"
+    },
+    {
+     "offset": 6665,
+     "dur": 178.2,
+     "audio": "./audio/fall21b_111m05.mp3?v=3"
+    },
+    {
+     "offset": 7474,
+     "dur": 117.3,
+     "audio": "./audio/fall21b_124m34.mp3?v=3"
+    },
+    {
+     "offset": 7854,
+     "dur": 129.1,
+     "audio": "./audio/fall21b_130m54.mp3?v=3"
+    },
+    {
+     "offset": 8583,
+     "dur": 154.0,
+     "audio": "./audio/fall21b_143m03.mp3?v=3"
+    },
+    {
+     "offset": 9013,
+     "dur": 28.5,
+     "audio": "./audio/fall21b_150m13.mp3?v=3"
+    },
+    {
+     "offset": 9305,
+     "dur": 210.8,
+     "audio": "./audio/fall21b_155m05.mp3?v=3"
+    },
+    {
+     "offset": 10010,
+     "dur": 76.0,
+     "audio": "./audio/fall21b_166m50.mp3?v=3"
+    },
+    {
+     "offset": 10269,
+     "dur": 84.2,
+     "audio": "./audio/fall21b_171m09.mp3?v=3"
+    },
+    {
+     "offset": 10978,
+     "dur": 117.4,
+     "audio": "./audio/fall21b_182m58.mp3?v=3"
+    },
+    {
+     "offset": 11734,
+     "dur": 105.6,
+     "audio": "./audio/fall21b_195m34.mp3?v=3"
+    },
+    {
+     "offset": 12263,
+     "dur": 107.2,
+     "audio": "./audio/fall21b_204m23.mp3?v=3"
     }
    ]
   },
