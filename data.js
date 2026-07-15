@@ -1,7 +1,6 @@
 window.GREG = {
  "order": [
   "ref",
-  "aug2021",
   "aug2025",
   "jun30a",
   "jun30b"
@@ -15,17 +14,6 @@ window.GREG = {
      "offset": 0,
      "dur": 62.7,
      "audio": "./audio/ref_000m00.mp3"
-    }
-   ]
-  },
-  "aug2021": {
-   "label": "August 2021",
-   "sub": "On-air, one clip",
-   "clips": [
-    {
-     "offset": 453,
-     "dur": 46.1,
-     "audio": "./audio/aug2021_007m33.mp3"
     }
    ]
   },
@@ -95,11 +83,6 @@ window.GREG = {
      "audio": "./audio/jun30a_007m12.mp3"
     },
     {
-     "offset": 916,
-     "dur": 11.0,
-     "audio": "./audio/jun30a_015m16.mp3"
-    },
-    {
      "offset": 1283,
      "dur": 203.1,
      "audio": "./audio/jun30a_021m23.mp3"
@@ -156,16 +139,6 @@ window.GREG = {
      "audio": "./audio/jun30b_035m13.mp3"
     },
     {
-     "offset": 2422,
-     "dur": 39.0,
-     "audio": "./audio/jun30b_040m22.mp3"
-    },
-    {
-     "offset": 2840,
-     "dur": 55.8,
-     "audio": "./audio/jun30b_047m20.mp3"
-    },
-    {
      "offset": 3061,
      "dur": 56.1,
      "audio": "./audio/jun30b_051m01.mp3"
@@ -176,29 +149,9 @@ window.GREG = {
      "audio": "./audio/jun30b_058m01.mp3"
     },
     {
-     "offset": 4487,
-     "dur": 95.6,
-     "audio": "./audio/jun30b_074m47.mp3"
-    },
-    {
-     "offset": 5166,
-     "dur": 321.4,
-     "audio": "./audio/jun30b_086m06.mp3"
-    },
-    {
-     "offset": 6154,
-     "dur": 125.8,
-     "audio": "./audio/jun30b_102m34.mp3"
-    },
-    {
      "offset": 6817,
      "dur": 105.2,
      "audio": "./audio/jun30b_113m37.mp3"
-    },
-    {
-     "offset": 7278,
-     "dur": 24.9,
-     "audio": "./audio/jun30b_121m18.mp3"
     }
    ]
   }
