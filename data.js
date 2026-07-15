@@ -78,11 +78,6 @@ window.GREG = {
    "sub": "On-air session",
    "clips": [
     {
-     "offset": 432,
-     "dur": 65.6,
-     "audio": "./audio/jun30a_007m12.mp3"
-    },
-    {
      "offset": 1283,
      "dur": 203.1,
      "audio": "./audio/jun30a_021m23.mp3"
@@ -93,24 +88,9 @@ window.GREG = {
      "audio": "./audio/jun30a_030m09.mp3"
     },
     {
-     "offset": 1857,
-     "dur": 59.0,
-     "audio": "./audio/jun30a_030m57.mp3"
-    },
-    {
-     "offset": 2269,
-     "dur": 81.4,
-     "audio": "./audio/jun30a_037m49.mp3"
-    },
-    {
      "offset": 2516,
      "dur": 9.1,
      "audio": "./audio/jun30a_041m56.mp3"
-    },
-    {
-     "offset": 2747,
-     "dur": 103.0,
-     "audio": "./audio/jun30a_045m47.mp3"
     }
    ]
   },
