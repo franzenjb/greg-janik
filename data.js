@@ -4,7 +4,10 @@ window.GREG = {
   "jun30",
   "aug2025",
   "sep02",
+  "sep02b",
   "sep22_21",
+  "sep09_21",
+  "sep08_21",
   "fall21",
   "fall21b",
   "aug25_21"
@@ -124,13 +127,59 @@ window.GREG = {
    ]
   },
   "sep02": {
-   "label": "September 2, 2022",
+   "label": "September 2, 2022 \u2014 Tape 1",
    "sub": "On-air session",
    "clips": [
     {
      "offset": 5885,
      "dur": 159.9,
      "audio": "./audio/sep02_098m05.mp3?v=3"
+    }
+   ]
+  },
+  "sep02b": {
+   "label": "September 2, 2022 \u2014 Tape 2",
+   "sub": "On-air session",
+   "clips": [
+    {
+     "offset": 5885,
+     "dur": 159.9,
+     "audio": "./audio/sep02b_098m05.mp3?v=3"
+    },
+    {
+     "offset": 6541,
+     "dur": 96.1,
+     "audio": "./audio/sep02b_109m01.mp3?v=3"
+    },
+    {
+     "offset": 6975,
+     "dur": 81.3,
+     "audio": "./audio/sep02b_116m15.mp3?v=3"
+    },
+    {
+     "offset": 7568,
+     "dur": 64.9,
+     "audio": "./audio/sep02b_126m08.mp3?v=3"
+    },
+    {
+     "offset": 8195,
+     "dur": 72.2,
+     "audio": "./audio/sep02b_136m35.mp3?v=3"
+    },
+    {
+     "offset": 8634,
+     "dur": 39.2,
+     "audio": "./audio/sep02b_143m54.mp3?v=3"
+    },
+    {
+     "offset": 9318,
+     "dur": 108.0,
+     "audio": "./audio/sep02b_155m18.mp3?v=3"
+    },
+    {
+     "offset": 9919,
+     "dur": 138.6,
+     "audio": "./audio/sep02b_165m19.mp3?v=3"
     }
    ]
   },
@@ -192,6 +241,158 @@ window.GREG = {
      "offset": 6861,
      "dur": 46.6,
      "audio": "./audio/sep22_21_114m21.mp3?v=3"
+    }
+   ]
+  },
+  "sep09_21": {
+   "label": "September 9, 2021",
+   "sub": "On-air session",
+   "clips": [
+    {
+     "offset": 2265,
+     "dur": 169.5,
+     "audio": "./audio/sep09_21_037m45.mp3?v=3"
+    },
+    {
+     "offset": 3272,
+     "dur": 90.0,
+     "audio": "./audio/sep09_21_054m32.mp3?v=3"
+    },
+    {
+     "offset": 3887,
+     "dur": 68.9,
+     "audio": "./audio/sep09_21_064m47.mp3?v=3"
+    },
+    {
+     "offset": 4493,
+     "dur": 110.4,
+     "audio": "./audio/sep09_21_074m53.mp3?v=3"
+    },
+    {
+     "offset": 5160,
+     "dur": 53.7,
+     "audio": "./audio/sep09_21_086m00.mp3?v=3"
+    },
+    {
+     "offset": 5583,
+     "dur": 129.6,
+     "audio": "./audio/sep09_21_093m03.mp3?v=3"
+    },
+    {
+     "offset": 6176,
+     "dur": 83.1,
+     "audio": "./audio/sep09_21_102m56.mp3?v=3"
+    },
+    {
+     "offset": 7407,
+     "dur": 130.7,
+     "audio": "./audio/sep09_21_123m27.mp3?v=3"
+    },
+    {
+     "offset": 7927,
+     "dur": 38.8,
+     "audio": "./audio/sep09_21_132m07.mp3?v=3"
+    },
+    {
+     "offset": 8136,
+     "dur": 42.8,
+     "audio": "./audio/sep09_21_135m36.mp3?v=3"
+    },
+    {
+     "offset": 8557,
+     "dur": 89.0,
+     "audio": "./audio/sep09_21_142m37.mp3?v=3"
+    },
+    {
+     "offset": 9300,
+     "dur": 78.1,
+     "audio": "./audio/sep09_21_155m00.mp3?v=3"
+    },
+    {
+     "offset": 9733,
+     "dur": 30.3,
+     "audio": "./audio/sep09_21_162m13.mp3?v=3"
+    },
+    {
+     "offset": 10158,
+     "dur": 40.2,
+     "audio": "./audio/sep09_21_169m18.mp3?v=3"
+    },
+    {
+     "offset": 10958,
+     "dur": 67.8,
+     "audio": "./audio/sep09_21_182m38.mp3?v=3"
+    },
+    {
+     "offset": 11675,
+     "dur": 105.6,
+     "audio": "./audio/sep09_21_194m35.mp3?v=3"
+    },
+    {
+     "offset": 12332,
+     "dur": 105.1,
+     "audio": "./audio/sep09_21_205m32.mp3?v=3"
+    }
+   ]
+  },
+  "sep08_21": {
+   "label": "September 8, 2021",
+   "sub": "On-air session",
+   "clips": [
+    {
+     "offset": 857,
+     "dur": 11.6,
+     "audio": "./audio/sep08_21_014m17.mp3?v=3"
+    },
+    {
+     "offset": 1008,
+     "dur": 126.9,
+     "audio": "./audio/sep08_21_016m48.mp3?v=3"
+    },
+    {
+     "offset": 2055,
+     "dur": 113.8,
+     "audio": "./audio/sep08_21_034m15.mp3?v=3"
+    },
+    {
+     "offset": 2960,
+     "dur": 103.8,
+     "audio": "./audio/sep08_21_049m20.mp3?v=3"
+    },
+    {
+     "offset": 4564,
+     "dur": 121.6,
+     "audio": "./audio/sep08_21_076m04.mp3?v=3"
+    },
+    {
+     "offset": 5066,
+     "dur": 78.1,
+     "audio": "./audio/sep08_21_084m26.mp3?v=3"
+    },
+    {
+     "offset": 5624,
+     "dur": 93.8,
+     "audio": "./audio/sep08_21_093m44.mp3?v=3"
+    },
+    {
+     "offset": 6352,
+     "dur": 47.9,
+     "audio": "./audio/sep08_21_105m52.mp3?v=3"
+    },
+    {
+     "offset": 7063,
+     "dur": 65.9,
+     "audio": "./audio/sep08_21_117m43.mp3?v=3"
+    },
+    {
+     "offset": 7611,
+     "dur": 56.9,
+     "audio": "./audio/sep08_21_126m51.mp3?v=3"
+    },
+    {
+     "offset": 7882,
+     "dur": 53.7,
+     "audio": "./audio/sep08_21_131m22.mp3?v=3"
     }
    ]
   },
